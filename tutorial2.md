@@ -239,6 +239,8 @@ Include screenshots demonstrating:
   ![alt text](image-2.png)
   The Get request For hey
 ![alt text](image-3.png)
+home page
+![alt text](image-5.png)
 
 ### Conclusion
 
